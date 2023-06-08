@@ -4,4 +4,4 @@
 
 [五道口产品 路线图 v1.0.0](/role-based/product-tsinghua/product-tsinghua(v1.0.0).pdf)
 
-![五道口产品 路线图](/role-based/product-tsinghua/product-tsinghua(v1.0.0).png)
+![五道口产品 路线图](https://roadmap.education/images/product-tsinghua(v1.0.0).png)
